@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "lit-html": "^1.2.1",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
